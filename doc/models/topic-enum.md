@@ -1,0 +1,31 @@
+
+# Topic Enum
+
+## Enumeration
+
+`TopicEnum`
+
+## Fields
+
+| Name |
+|  --- |
+| `ALARMS` |
+| `ASSETRAW` |
+| `ASSETRAWRSSI` |
+| `AUDITS` |
+| `CLIENTJOIN` |
+| `CLIENTSESSIONS` |
+| `DEVICEEVENTS` |
+| `DEVICEUPDOWNS` |
+| `DISCOVEREDRAWRSSI` |
+| `LOCATION` |
+| `MXEDGEEVENTS` |
+| `NACSESSIONS` |
+| `OCCUPANCYALERTS` |
+| `RSSIZONE` |
+| `SDKCLIENTSCANDATA` |
+| `VBEACON` |
+| `WIFICONNRAW` |
+| `WIFIUNCONNRAW` |
+| `ZONE` |
+

@@ -1,0 +1,22 @@
+
+# Src Enum
+
+## Enumeration
+
+`SrcEnum`
+
+## Fields
+
+| Name |
+|  --- |
+| `LLDP_CHASSIS_ID` |
+| `LLDP_SYSTEM_NAME` |
+| `LLDP_SERIAL_NUMBER` |
+| `LLDP_HARDWARE_REVISION` |
+| `LLDP_MANUFACTURER_NAME` |
+| `LLDP_OUI` |
+| `RADIUS_USERNAME` |
+| `RADIUS_USERMAC` |
+| `RADIUS_DYNAMICFILTER` |
+| `LINK_PEERMAC` |
+
