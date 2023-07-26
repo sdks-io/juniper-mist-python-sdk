@@ -32,11 +32,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install juniper-mist-sdk==1.0.0
+pip install sdksio-juniper-mist-sdk==1.0.0
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/juniper-mist-sdk/1.0.0
+https://pypi.python.org/pypi/sdksio-juniper-mist-sdk/1.0.0
 
 ## Test the SDK
 
